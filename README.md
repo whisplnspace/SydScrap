@@ -2,7 +2,7 @@
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)  
 [![Python](https://img.shields.io/badge/Python-3.9-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)  
-[![License: MIT](https://img.shields.io/github/license/yourusername/sydney-events-scraper?style=for-the-badge)](LICENSE)
+
 
 ---
 
@@ -103,7 +103,7 @@ Distributed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ## 🙌 Acknowledgments & Contact
 
-Made with ❤️ by [Your Name](https://github.com/whisplnspace)
+Made with ❤️ by [Whisplnspace](https://github.com/whisplnspace)
 
 
 ---
