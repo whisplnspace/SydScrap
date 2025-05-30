@@ -74,7 +74,6 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 ├── requirements.txt   # Dependencies
 └── README.md          # Project documentation (this file)
 ```
-
 ---
 
 ## ⚙️ How It Works
@@ -83,8 +82,6 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 2. Each event shows title, location, date/time, and description.
 3. Clicking **Get Tickets** prompts the user to enter their email and consent.
 4. Upon submission, the email is stored and user is redirected to the original event page.
-
-> *Tip:* You can enhance the scraper module to pull live data dynamically.
 
 ---
 
