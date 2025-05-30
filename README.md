@@ -34,7 +34,7 @@ Experience real-time event browsing and ticket reservations for Sydney events!
 
 ## 🖼️ Screenshots
 
-![Homepage](docs/screenshot-home.png)  
+![Image](https://github.com/user-attachments/assets/2a276aa7-092e-4778-9aef-b8ed9356e5df)
 *Simple, clear event listing with easy navigation*
 
 ---
