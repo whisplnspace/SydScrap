@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Vivid Sydney Music Festival 2025",
+    "date_time": "June 15, 2025 | 7:00 PM",
+    "location": "Sydney Opera House",
+    "description": "Experience a spectacular mix of music, lights, and performance at the iconic Sydney Opera House.",
+    "link": "https://www.eventbrite.com.au/e/sample-event",
+    "image": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d5"
+  },
+  {
+    "title": "FutureTech Conference 2025",
+    "date_time": "July 8, 2025 | 10:00 AM",
+    "location": "International Convention Centre",
+    "description": "Join industry leaders in discussing the future of AI, robotics, and deep tech innovations.",
+    "link": "https://www.eventbrite.com.au/e/sample-tech",
+    "image": "https://images.unsplash.com/photo-1529101091764-c3526daf38fe"
+  }
+]
