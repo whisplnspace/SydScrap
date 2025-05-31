@@ -9,7 +9,7 @@
 ## ✨ Overview
 
 Welcome to **Sydney Events Scraper**, a clean and minimalistic web app built with **Streamlit** that scrapes and displays the latest events happening in **Sydney, Australia**.  
-Browse upcoming events effortlessly, get details, and secure your tickets with ease — all in one place.
+Browse upcoming events effortlessly, get details, and secure your tickets with ease, all in one place.
 
 ---
 
